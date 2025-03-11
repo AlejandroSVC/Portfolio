@@ -1,4 +1,5 @@
 # Data Scientist
+![Data Science] (docs/assets/brain- small.jpg)
 ### Education
 Engineering, Social Sciences, PhD
 ### Work experience
