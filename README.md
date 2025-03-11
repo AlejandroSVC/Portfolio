@@ -2,6 +2,7 @@
 ![Data Science](docs/assets/brain_small.jpg)
 ### Education
 Engineering, Social Sciences, PhD
+
 ![Banner](docs/assets/banner_thin.jpg)
 ### Work experience
 • Director at the Center for Studies “Estudios para el Desarrollo”, 2017 to 2023.
