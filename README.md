@@ -52,9 +52,6 @@ For DIBAM, Dirección de Bibliotecas, Archivos y Museos, 2003.
 • “Estudio de opinión de usuarios de museos”.
 For DIBAM, Dirección de Bibliotecas, Archivos y Museos, 2001.
 
-• “Estudio de opinión de funcionarios municipales de la Región Metropolitana”.
-For Ministerio Secretaría General de Gobierno, 1997.
-
 • “Estudio de satisfacción de clientes”.
 For 3M Chile, 1997.
 
