@@ -20,7 +20,7 @@ Para Ministerio de Salud, 2016.
 • “Estudio sobre la percepción y experiencia de Emprendedoras del Área Tecnológica en Chile”
 Para Fundación Girls in Tech Chile, 2016.
 
-• “Estudio de Percepción de actores educativos sobre el Aseguramiento de la Calidad de la Educación Universitaria en Chile”.
+• “Estudio de Percepción de actores educativos sobre la Calidad de la Educación Universitaria”.
 Para Universidad de Sevilla, España, 2012 a 2016.
 
 • “Percepciones de Jóvenes inmigrantes en Chile”.
