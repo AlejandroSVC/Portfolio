@@ -9,7 +9,7 @@ Engineering, Social Sciences, PhD
 
 • Director of Studies, at “Market Insight, Opinion and Market Studies”, 2017.
 
-OPINION STUDIES
+### Opinion and Customer Satisfaction Studies
 
 • “Estudio de opinión de estudiantes universitarios”.
 For Estudios para el Desarrollo, 2022.
@@ -23,17 +23,8 @@ For Ministerio de Salud, 2016.
 • “Estudio sobre la percepción y experiencia de Emprendedoras del Área Tecnológica en Chile”
 For Fundación Girls in Tech Chile, 2016.
 
-• “Estudio de Percepción de actores educativos sobre la Calidad de la Educación Universitaria”.
-For Universidad de Sevilla, España, 2012 a 2016.
-
-• “Percepciones de Jóvenes inmigrantes en Chile”.
-For PNUD-Universidad Central, Facultad de Ciencias Sociales, 2015 a 2016.
-
 • “Percepción de la población sobre diversos alimentos”.
 For CEAP, Centro de Estudios en Alimentos Procesados, 2014.
-
-• “Percepciones de profesores universitarios principiantes sobre su experiencia en la docencia”.
-For Universidad de Sevilla, España, 2011 a 2012.
 
 • “Percepción de Agentes Culturales de la Región del Maule sobre el Desarrollo Cultural”.
 For Consejo Nacional de la Cultura y las Artes, 2011.
