@@ -8,7 +8,7 @@ Engineering, Social Sciences, PhD
 
 OPINION STUDIES
 
-• “Estudio de opinión de estudiantes universitarios sobre su proceso de aprendizaje”.
+• “Estudio de opinión de estudiantes universitarios”.
 Para Estudios para el Desarrollo, 2022.
 
 • “Estudio sobre calidad de vida y aprendizaje de estudiantes universitarios”.
