@@ -3,6 +3,7 @@
 Engineering, Social Sciences, PhD
 ### Work experience
 • Director at the Center for Studies “Estudios para el Desarrollo”, 2017 to 2023.
+
 • Director of Studies, at “Market Insight, Opinion and Market Studies”, 2017.
 
 OPINION STUDIES
@@ -66,6 +67,3 @@ Para CODELCO Chile, 1996.
 
 • “Estudio de Opinión Pública”.
 Para Ministerio de Salud, 1996.
-
-• “Estudio de opinión sobre los Jóvenes de la Región Metropolitana”.
-Para CÉNECA, Estudios Sociales, 1996.
