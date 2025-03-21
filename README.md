@@ -4,6 +4,17 @@
 Engineering, Social Sciences, PhD
 
 ![Banner](docs/assets/banner_thin.jpg)
+### Portfolio
+https://alejandrosvc.github.io/Website-User-Satisfaction---XGBoost/
+
+https://alejandrosvc.github.io/Airport-User-Satisfaction---lightGBM/
+
+https://alejandrosvc.github.io/Job-Satisfaction---Ridge-Regression/
+
+https://alejandrosvc.github.io/comunas_RM_segun_GSE/
+
+https://alejandrosvc.github.io/socioeconomic_characterization/
+
 ### Work experience
 
 • Expert adviser for Universidad de Santiago de Chile, 2024 to 2025.
