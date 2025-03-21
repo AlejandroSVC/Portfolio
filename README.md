@@ -5,6 +5,9 @@ Engineering, Social Sciences, PhD
 
 ![Banner](docs/assets/banner_thin.jpg)
 ### Work experience
+
+• Expert adviser for Universidad de Santiago de Chile, 2024 to 2025.
+
 • Director at the Center for Studies “Estudios para el Desarrollo”, 2017 to 2023.
 
 • Director of Studies, at “Market Insight, Opinion and Market Studies”, 2017.
