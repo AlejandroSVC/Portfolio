@@ -7,19 +7,19 @@ Engineering, Social Sciences, PhD
 ### Portfolio
 
 Website User Satisfaction - Machine Learning- XGBoost
-(https://tinyurl.com/UserSatXGBoost)
+https://tinyurl.com/UserSatXGBoost
 
 Airport User Satisfaction - Machine Learning - lightGBM
-(https://tinyurl.com/UserSatLightGBM)
+https://tinyurl.com/UserSatLightGBM
 
-Job Satisfaction - Ridge Regression
-(https://tinyurl.com/JobSatRidge)
+Job Satisfaction - Machine Learning - Ridge Regression
+https://tinyurl.com/JobSatRidge
 
-Geospatial Analysis
-(https://tinyurl.com/GeoSpatRM)
+Geospatial Analysis - Socioeconomic Segmentation 
+https://tinyurl.com/GeoSpatRM
 
-Socioeconomic Segmentation
-(https://tinyurl.com/SocEc)
+Socioeconomic Segmentation - Multivariate Analysis
+https://tinyurl.com/SocEc
 
 ### Work experience
 
