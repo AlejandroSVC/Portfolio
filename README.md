@@ -6,15 +6,15 @@ Engineering, Social Sciences, PhD
 ![Banner](docs/assets/banner_thin.jpg)
 ### Portfolio
 
-[Website User Satisfaction - Machine Learning- XGBoost] (https://alejandrosvc.github.io/Website-User-Satisfaction---XGBoost/)
+Website User Satisfaction - Machine Learning- XGBoost (https://tinyurl.com/UserSatXGBoost)
 
-[Airport User Satisfaction - Machine Learning - lightGBM] (https://alejandrosvc.github.io/Airport-User-Satisfaction---lightGBM/)
+Airport User Satisfaction - Machine Learning - lightGBM (https://tinyurl.com/UserSatLightGBM)
 
-[Job Satisfaction - Ridge Regression] (https://alejandrosvc.github.io/Job-Satisfaction---Ridge-Regression/)
+Job Satisfaction - Ridge Regression (https://tinyurl.com/JobSatRidge)
 
-[Geospatial Analysis] (https://alejandrosvc.github.io/Geospatial_Analysis/)
+Geospatial Analysis (https://tinyurl.com/GeoSpatRM)
 
-[Socioeconomic Segmentation] (https://alejandrosvc.github.io/Socioeconomic_Segmentation/)
+Socioeconomic Segmentation (https://tinyurl.com/SocEc)
 
 ### Work experience
 
