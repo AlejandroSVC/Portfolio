@@ -21,6 +21,9 @@ https://tinyurl.com/GeoSpatRM
 Socioeconomic Segmentation - Multivariate Analysis
 https://tinyurl.com/SocEc
 
+Hierarchical Cluster Analysis
+https://tinyurl.com/hclusterRM
+
 ### Work experience
 
 • Expert adviser for Universidad de Santiago de Chile, 2024 to 2025.
