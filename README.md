@@ -22,6 +22,7 @@ Socioeconomic Segmentation - Multivariate Analysis
 https://tinyurl.com/SocEc
 
 Hierarchical Cluster Analysis
+
 https://tinyurl.com/hclusterRM
 
 ### Work experience
